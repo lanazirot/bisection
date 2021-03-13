@@ -1,0 +1,15 @@
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\Bisection.exe.config
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\Bisection.exe
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\Bisection.pdb
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.csprojAssemblyReference.cache
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.PrincipalForm.resources
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.Properties.Resources.resources
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.csproj.GenerateResource.cache
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.csproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.exe
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.pdb
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\SimpleExpressionEvaluator.dll
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\SimpleExpressionEvaluator.pdb
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\SimpleExpressionEvaluator.xml
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Debug\Bisection.csproj.CopyComplete
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Debug\MathParser.org-mXparser.dll
