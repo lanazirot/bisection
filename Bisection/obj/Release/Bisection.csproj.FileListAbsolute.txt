@@ -1,0 +1,12 @@
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Release\Bisection.exe.config
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Release\Bisection.exe
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Release\Bisection.pdb
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\bin\Release\MathParser.org-mXparser.dll
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.csprojAssemblyReference.cache
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.PrincipalForm.resources
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.Properties.Resources.resources
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.csproj.GenerateResource.cache
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.csproj.CoreCompileInputs.cache
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.csproj.CopyComplete
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.exe
+C:\Users\alanc\Desktop\Bisection\Bisection\Bisection\obj\Release\Bisection.pdb
